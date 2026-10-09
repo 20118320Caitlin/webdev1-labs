@@ -1,0 +1,23 @@
+p {
+    color: palevioletred;
+    font-style: oblique;
+}
+
+h1, h2 {
+    color: brown;
+    background-color: bisque;
+    font-size: xx-large;
+}
+nav {
+    background-color: rgb(200, 200, 200);
+    font-style: italic;
+    font-weight: bold;
+}
+
+h3 {
+       font: bold italic 120% Verdana ;
+       color: pink;
+       line-height: 100px;
+       text-decoration: underline overline;
+       text-align: end;
+}

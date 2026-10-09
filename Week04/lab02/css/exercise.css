@@ -1,0 +1,27 @@
+body {
+    background-color: #E0FFFF;
+    color: navy;
+    font-family: Garamond, serif;
+}
+
+h3 {
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underlined;
+}
+
+p  {
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #000080;
+}
+
+address {
+    size: 110%;
+}
+
+blockquote {
+    ;
+}
